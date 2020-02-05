@@ -1,0 +1,88 @@
+<html>
+<style>
+td
+{
+border: 1px solid #000000;
+text-align: center;
+padding: 8px;
+}
+th
+{
+border: 1px solid #000000;
+text-align: center;
+background-color: #4287f5;
+}
+</style>
+<table border = "1" width = "100%">
+ <tr>
+    <th>Day/Period</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>  
+ </tr>
+  <tr>
+    <td bgcolor=#4287f5>Monday</td>
+    <td>Dig Ent.</td>
+    <td>GTC</td>
+    <td bgcolor=#ff5c33 rowspan=6>Tea</td>
+    <td>DE 2</td>
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td>IT</td>
+    <td colspan=2>IT LAB</td>
+  </tr>
+<tr>
+    <td bgcolor=#4287f5>Tuesday</td>
+    <td colspan=2 >IT LAB</td>
+    <td>Dig Ent.</td>
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td>GTC</td>
+    <td colspan=2>AT</td>
+  </tr>
+
+<tr>
+    <td bgcolor=#4287f5>Wednesday</td>
+    <td colspan=2>AT</td>
+    <td>DE 2</td>
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td>GTC</td>
+    <td>AT</td>
+    <td bgcolor=#ff9900>Library</td>
+  </tr>
+
+<tr>
+    <td bgcolor=#4287f5>Thursday</td>
+    <td>Dig Ent.</td>
+    <td>GTC</td>
+    <td>OOAD</td>
+    <td>DE 2</td>
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td colspan=2>NP Lab</td>
+  </tr>
+
+<tr>
+    <td bgcolor=#4287f5>Friday</td>
+    <td colspan=2>NP LAB</td>
+    <td>Dig Ent.</td>
+    <td bgcolor=#ff5c33>Lunch</td>
+    <td>GTC</td>
+    <td>OOAD</td>
+    <td bgcolor=#ff9900>CCH</td>
+   
+  </tr>
+
+<tr>
+    <td bgcolor=#4287f5>saturday</td>
+    <td bgcolor=#c25406 colspan=2>Active learning</td>
+    <td bgcolor=#c25406 colspan=2>Active learning</td>
+  </tr>
+
+
+</table>
+<html>
+
+
