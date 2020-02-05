@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<center><h1>FAYAZULLA khan</h1></center>
+<HR color="black">
+<hr size="10" color="black">
+<center><p><font size="2">fayaz807@gmail.com&nbsp&nbsp&nbsp&nbsp&nbsp9686700413</font></p></center>
+
+<body>
+
+<header>
+<u><h3>Professional Summary</h3></u>
+</header>
+<p>Experienced programmer,data analyst, animator and startup projects enthusiast with a passion for building websites and challenging the status. 2+ year track-record of defining new project strategies, launching new designs and models, and delivering operational impact.</p>
+
+
+<a name="edu"><u><h3>Education</h3></u></a>
+<style>
+td,th{
+border: 1px solid #dddddd;
+text-align: center;
+padding: 8px;}
+a{
+font-weight: bold;
+font-family: verdana;
+}
+
+</style>
+<table border = "1" width = "100%">
+         <tr>
+            <th>Degree</th>
+            <th>School/College</th>
+    	    <th>Year of Passing</th>
+    	    <th>Percentage</th>
+	    
+         </tr>
+         <tr>
+            <td>10th</td>
+            <td>st.aloysius</td>
+	    <td>2015</td>
+            <td>75</td>
+         </tr>
+         
+         <tr>
+            <td>12th</td>
+            <td>reva</td>
+ 	    <td>2017</td>
+            <td>75</td>
+         </tr>
+
+         <tr>
+            <td>B.Tech</td>
+            <td>Presidency University</td>
+ 	    <td>2021</td>
+            <td>75</td>
+         </tr>
+      </table>
+<u><h3>Work History</h3></u>
+<div>
+<h4>Data Analyst,GHT Company</h4>
+<p><font size="3">Responsibilities:
+<UL TYPE="SQUARE"><Li>Establish operation strategy in a team for improving efficiency</li>
+<Li>Prepare data and information for making regular report data analysis</li>
+<Li>Perform data analysis for complex data and files</li></font></p>
+</div>
+<div>
+<h4>Animator, Startup Corporation</h4>
+<p><font size="3">Responsibilities:
+<UL TYPE="SQUARE"><Li>Composed many animations.</li>
+<Li>Performed data analysis and representation for the company.</li>
+<Li>Showed animations in regular meetings for creating new ideas and inspiration.</li></font></p>
+</div>
+<u><h3>Skills</h3></u>
+<p><UL TYPE="SQUARE"><li>Adobe Package:Illustrator,After Effects,Premiere Pro.
+<li>Database operation:Oracle 8i,STATA</li>
+<li>Programming: C++, SQL, HTML, Python</p></li></ul>
+<u><h3>Links</h3></u>
+<ul>
+<li><a href="https://presidencyuniversity.in"> My University</a></li>
+<li><a href=#edu>My Education</a></li>
+<li><a href="/home/6CSE3/Desktop/20171cse0198/TimeTable">My Time Table<a></li>
+<li><a href="mailto:201710100372@gmail.com">Send an Email</a></li>
+
+
+</ul>
+</body>
+</html>
