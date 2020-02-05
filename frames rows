@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>HTML frames</title>
+</head>
+<frameset rows="10%,10%,10%">
+  <frame name ="top" src="/home/6CSE3/Desktop/20171cse0198/image.jpg"/>
+  <frame name="main" src="/home/6CSE3/Desktop/20171cse0198/image.jpg" />
+  <frame name="bottom" src="/home/6CSE3/Desktop/20171cse0198/image.jpg" />
+<noframe>
+  <body> your browserdoes not support frames</body>
+</noframe>
+ </frameset>
+</html>
+
