@@ -1,0 +1,42 @@
+<html>
+<head>
+</head>
+<body BGCOLOR="BLACK">
+  <marquee behavior="" direction="left">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+<marquee behavior="scroll" direction="right">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+  <marquee behavior="scroll" direction="left">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+<marquee behavior="scroll" direction="right">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+  <marquee behavior="scroll" direction="left">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+<marquee behavior="scroll" direction="right">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+  <marquee behavior="scroll" direction="left">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+<marquee behavior="scroll" direction="right">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+  <marquee behavior="scroll" direction="left">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+<marquee behavior="scroll" direction="right">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+  <marquee behavior="scroll" direction="left">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+<marquee behavior="scroll" direction="right">
+    <img src="/home/6CSE3/Desktop/20171cse0198/images.jpeg" width="120" height="120" alt="Natural" />
+  </marquee>
+</body>
+</html>
