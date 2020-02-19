@@ -1,0 +1,39 @@
+<html>
+<head>
+<style>
+k>h1{
+color:black;
+}
+a:link
+{
+text-decoration:underline;
+color:yellow;
+}
+a:hover
+{
+text-decoration:underline;
+color:red;
+}
+
+a:visited
+{
+text-decoration:underline;
+color:pink;
+}
+a:active
+{
+text-decoration:underline;
+color:black;
+}
+</style>
+</head>
+<body>
+<k><h1><a>Experienced programmer,data analyst,
+ animator and startup projects enthusiast with a
+ passion for building websites and challenging the status.
+ 2+ year track-record of defining new project strategies, 
+launching new designs and models,
+ and delivering operational impact.</h1></k>
+<a href="https://presidencyuniversity.in"> My University</a></li>
+</body>
+</html>
